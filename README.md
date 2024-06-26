@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Saravanapandian224
-- 👀 I’m interested in Machine learning Engineer 
-- 🌱 I’m currently learned Machine learning and Data Analysis with python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m Working on Machine learning Engineer 
+
 
 <!---
 Saravanapandian224/Saravanapandian224 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
